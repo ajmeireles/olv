@@ -20,5 +20,6 @@
         "psr-4": {
             "AJMeireles\\OLV\\": "src/"
         }
-    }
+    },
+    "prefer-stable": true
 }
