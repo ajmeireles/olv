@@ -1,0 +1,24 @@
+{
+    "name": "ajmeireles/olv",
+    "description": "OLV (One Line Validation) is a CodeIgniter 4 Package to provide an easy way to use CodeIgniter Validation with a single line",
+    "keywords": ["codeigniter", "olv"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AJ Meireles",
+            "email": "alvaro.meireles@live.com"
+        }
+    ],
+    "type": "library",
+    "require": {
+		"php": "^7.3"
+    },
+    "require-dev": {
+		"phpunit/phpunit": "6.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "AJMeireles\\OLV\\": "src/"
+        }
+    }
+}
