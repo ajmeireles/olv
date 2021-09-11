@@ -49,4 +49,4 @@ public $register = [
 
 
 ## Contribution
-- Please feel invited to send a PR if you notice that there is an improvement to be added or a correction to be made.
+- Feel to free to send a PR if you see that there is an improvement or a fix to be made.
